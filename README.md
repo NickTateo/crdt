@@ -1,5 +1,5 @@
-# red-team-deployment
-Red Team deployment tool for UFSIT.
+# Cyber Range Deployment Tool
+Command-line virtual network management tool for red team exercises
 
 
 #### api_conf.json
